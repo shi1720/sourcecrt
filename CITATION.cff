@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying unpublished manuscript when using this research artifact."
+type: software
+title: "SourceCRT: Source-Aware Certificates for Bounded Modular Reconstruction"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+version: 0.1.0
+date-released: 2026-10-17
+url: "https://github.com/shi1720/sourcecrt"
+repository-code: "https://github.com/shi1720/sourcecrt"
+license: MIT
