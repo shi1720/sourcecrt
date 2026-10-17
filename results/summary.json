@@ -1,0 +1,16 @@
+{
+  "trials": 576,
+  "objects": 48,
+  "seed": 6312028,
+  "modular_images": 2304,
+  "joint_mean": 15.519097222222221,
+  "scalar_mean": 16.116319444444443,
+  "universal_mean": 23.90625,
+  "joint_beats_scalar": 182,
+  "joint_beats_universal": 575,
+  "max_scalar_saving": 6,
+  "seconds": 14.86896949999209,
+  "python": "3.12.14",
+  "sympy": "1.14.0",
+  "platform": "macOS-27.0.1-arm64-arm-64bit"
+}

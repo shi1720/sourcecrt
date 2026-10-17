@@ -1,0 +1,6 @@
+{
+  "certificates_checked": 576,
+  "tampered_certificates_rejected": 1728,
+  "exact_layout_checks": 1200,
+  "out_of_model_counterexample": true
+}
